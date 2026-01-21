@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+  html, body {
+    margin: 0;
+    height: 100%;
+  }
+  iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+</style>
+
+<iframe
+    src="https://secure-chat-hub--ilovegaming54.replit.app/auth"
+    allow="autoplay"
+    allowfullscreen>
+</iframe>
+
+
+</html>
